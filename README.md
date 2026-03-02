@@ -55,60 +55,61 @@ Heatmaps and vector renderings show force direction, magnitude, and Z-axis chang
 ---
 
 ## Repository Structure
+
 ====================
 
 Reverse Neural Network Calculation/
-└── megnet_robot_traj/
-    ├── Inverse_Results/
-    ├── Sim_Magenet/
-    ├── __pycache__/
-    ├── dataset/
-    ├── model/
-    ├── results/
-    ├── tf/
-    ├── utils/
-    ├── cal_curve.py
-    ├── inverse_optimize.py
-    ├── main.py
-    ├── main_with_reverse.py
-    ├── quadratic_curve.png
-    ├── reverse_search.py
-    ├── test.py
-    └── IROS_2025_Sim_of_MIMMs(2).pdf
+|-- megnet_robot_traj/
+|   |-- Inverse_Results/
+|   |-- Sim_Magenet/
+|   |-- __pycache__/
+|   |-- dataset/
+|   |-- model/
+|   |-- results/
+|   |-- tf/
+|   |-- utils/
+|   |-- cal_curve.py
+|   |-- inverse_optimize.py
+|   |-- main.py
+|   |-- main_with_reverse.py
+|   |-- quadratic_curve.png
+|   |-- reverse_search.py
+|   |-- test.py
+|   `-- IROS_2025_Sim_of_MIMMs(2).pdf
 
 SKIN/
-├── Demo_Video/
-├── Material/
-├── OldVersions/
-├── anyskin/
-├── AnySkin_Models_Model.stl
-├── AnySkin_Models_Model_new.stl
-├── Assembly1.iam
-├── Assembly2.iam
-├── Box.ipt
-├── Franka_pair.stl
-├── LEAP.stl
-├── MAG_AnySkin_Models_Model.stl
-├── Magne_Cover.ipt
-├── OnRobot.stl
-├── Product_Model.ipt
-├── Tri_Box.ipt
-├── xArm_pair.stl
-└── xArm_pair_thin.stl
+|-- Demo_Video/
+|-- Material/
+|-- OldVersions/
+|-- anyskin/
+|-- AnySkin_Models_Model.stl
+|-- AnySkin_Models_Model_new.stl
+|-- Assembly1.iam
+|-- Assembly2.iam
+|-- Box.ipt
+|-- Franka_pair.stl
+|-- LEAP.stl
+|-- MAG_AnySkin_Models_Model.stl
+|-- Magne_Cover.ipt
+|-- OnRobot.stl
+|-- Product_Model.ipt
+|-- Tri_Box.ipt
+|-- xArm_pair.stl
+`-- xArm_pair_thin.stl
 
 Soft Linear Magnet Detection/
-├── Example_Figures/
-├── data_capture/
-├── result_figures/
-├── results_analysis/
-├── .gitignore
-├── README.md
-├── data_loader_online.py
-├── main_animation.py
-├── requirements.txt
-├── test.py
-├── visualize_estimated_pose_sequence.py
-└── window.py
+|-- Example_Figures/
+|-- data_capture/
+|-- result_figures/
+|-- results_analysis/
+|-- .gitignore
+|-- README.md
+|-- data_loader_online.py
+|-- main_animation.py
+|-- requirements.txt
+|-- test.py
+|-- visualize_estimated_pose_sequence.py
+`-- window.py
 
 README.md
 Yixin Chen-SURP_Poster_Pre_in_CUHK.pdf
