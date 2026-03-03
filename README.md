@@ -157,5 +157,5 @@ Yixin Chen-SURP_Poster_Pre_in_CUHK.pdf
 ---
 
 ## Author
-Yit Xiaang Ztang
+Yit Xiaang Ztang \(Yixin Chen 陳奕昕\)
 University of Minnesota – Twin Cities
