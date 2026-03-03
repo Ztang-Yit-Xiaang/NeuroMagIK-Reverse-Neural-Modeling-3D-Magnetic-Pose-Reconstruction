@@ -57,6 +57,7 @@ Heatmaps and vector renderings show force direction, magnitude, and Z-axis chang
 ## Repository Structure
 
 ====================
+```text
 
 Reverse Neural Network Calculation/
 |-- megnet_robot_traj/
@@ -113,6 +114,7 @@ Soft Linear Magnet Detection/
 
 README.md
 Yixin Chen-SURP_Poster_Pre_in_CUHK.pdf
+```
 ## Installation
 
     git clone https://github.com/USERNAME/Tactile-Intelligence-Suite
