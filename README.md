@@ -6,21 +6,17 @@ A full-stack computational framework for reconstructing physical properties, sen
 ---
 
 <!-- BEGIN portfolio-project-animations -->
-## Animated project guide
+## Recorded project interactions
 
-These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+These previews record interaction with original project figures, saved notebook outputs, source tests, or the actual project interface. They do not represent new experiments, model inference, or benchmark runs. Pointer-driven inspection, saved-result selection, and browser controls are captured below.
 
-### Magnetic pose reconstruction
+### Inspect the recorded reconstruction
 
-![Magnetic pose reconstruction — illustrative animation](docs/portfolio-animations/magnetic-pose-estimation.svg)
+![Inspect the recorded reconstruction - recorded project interaction](docs/portfolio-previews/magnetic-pose-estimation.gif)
 
-Illustrative inverse-model workflow, not measured fields, reconstructed frames or an accuracy claim.
+Move across four original saved frames (70, 80, 90, 99). Steps are discrete; capture timing and session continuity are unverified. AnySkin footage is a separate subsystem.
 
-### Sensor-array views
-
-![Sensor-array views — illustrative animation](docs/portfolio-animations/magnetic-sensor-array-visualization.svg)
-
-Synthetic sensor-field illustration, not live hardware readings or a calibration result.
+[Original project material](https://github.com/Ztang-Yit-Xiaang/NeuroMagIK-Reverse-Neural-Modeling-3D-Magnetic-Pose-Reconstruction/blob/d78c7dff4c6309130006821c6cc4f4318e6e44fa/Soft%20Linear%20Magnet%20Detection/result_figures/frame_0070.png)
 
 <!-- END portfolio-project-animations -->
 
