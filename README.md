@@ -5,6 +5,25 @@ A full-stack computational framework for reconstructing physical properties, sen
 
 ---
 
+<!-- BEGIN portfolio-project-animations -->
+## Animated project guide
+
+These self-contained SVG animations explain the project workflow. They are illustrative guides, not recorded experiments or new performance results. Static content remains available when reduced motion is requested.
+
+### Magnetic pose reconstruction
+
+![Magnetic pose reconstruction — illustrative animation](docs/portfolio-animations/magnetic-pose-estimation.svg)
+
+Illustrative inverse-model workflow, not measured fields, reconstructed frames or an accuracy claim.
+
+### Sensor-array views
+
+![Sensor-array views — illustrative animation](docs/portfolio-animations/magnetic-sensor-array-visualization.svg)
+
+Synthetic sensor-field illustration, not live hardware readings or a calibration result.
+
+<!-- END portfolio-project-animations -->
+
 ## Overview
 
 This repository implements three major subsystems:
